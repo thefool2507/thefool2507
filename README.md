@@ -23,7 +23,7 @@ Data        →  ML · data analysis · visualization
 
 **Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thefool2507&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=thefool2507&theme=github-dark&hide_border=true)
 
 ---
 
